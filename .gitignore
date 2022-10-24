@@ -1,0 +1,7 @@
+_Store
+.idea
+.nuxt
+.temp
+*.log
+dist
+node_modules
